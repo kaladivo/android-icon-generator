@@ -2,9 +2,17 @@
 Android Icon Generator is a simple app that generates downscaled icons for all android supported densities (as stated 
 by the [documentation](http://developer.android.com/guide/practices/screens_support.html#range)). 
 
+## Download
+You can [download the compiled jar file](http://kaladivo.github.io/android-icon-generator/AIG.jar). Or clone this repository
+and compile it by your self.
+
 ## What you need
 - JRE 8 or newer
-- The icons icons in great resolution from witch others resolutions will be generated
+- The icons in great resolution from witch others resolutions will be generated
+
+## How to launch
+In most cases you be able to launch the the app by just double clicking on AIG.jar file. If it does not work you can also 
+run it from the command line by typing `java -jar AIG.jar` (make sure you are in the same directory as the AIG.jar file).
 
 ## How to use
 To generate icons you need to set input and output folders. 
@@ -27,10 +35,14 @@ Example of an Input folder:
 (http://i.imgur.com/LequYt6.png)
 
 ### Outputs
-The output will be generated into the selected folder. AIG generates icons in all supported screens resolutions (as stated
+The output will be generated into the selected folder. AIG generates icons in all supported screen resolutions (as stated
 by the [documentation](http://developer.android.com/guide/practices/screens_support.html#range)). 
 
 Example of an output folder generated from the upper example:
 
 ![Example of an output folder]
 (http://i.imgur.com/L1wkaTo.png)
+
+
+
+That's it. Enjoy!
