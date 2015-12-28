@@ -11,7 +11,7 @@ and compile it by your self.
 - The icons in great resolution from witch others resolutions will be generated
 
 ## How to launch
-In most cases you be able to launch the the app by just double clicking on AIG.jar file. If it does not work you can also 
+In most cases you will be able to launch the the app by just double clicking on AIG.jar file. If it does not work you can also 
 run it from the command line by typing `java -jar AIG.jar` (make sure you are in the same directory as the AIG.jar file).
 
 ## How to use
