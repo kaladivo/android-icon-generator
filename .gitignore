@@ -1,0 +1,8 @@
+.DS_Store
+
+*.jar
+
+out/
+workspace.xml
+tasks.xml
+
