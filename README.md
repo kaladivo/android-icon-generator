@@ -36,7 +36,10 @@ Example of an Input folder:
 
 ### Outputs
 The output will be generated into the selected folder. AIG generates icons in all supported screen resolutions (as stated
-by the [documentation](http://developer.android.com/guide/practices/screens_support.html#range)). 
+by the [documentation](http://developer.android.com/guide/practices/screens_support.html#range)) and automatically puts them
+to the right folders (or creates them if they does not exist). 
+
+Usually you will select res folder in your Android project as the output folder.
 
 Example of an output folder generated from the upper example:
 
