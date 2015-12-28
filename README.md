@@ -1,5 +1,5 @@
 # Android Icon Generator
-Android Icon Generator is a simple app that generates downscaled icons for all android supported densities (list supported densities can be found 
+Android Icon Generator is a simple app that generates downscaled icons for all android supported densities (the list of supported densities can be found 
 [here](http://developer.android.com/guide/practices/screens_support.html#range)). 
 
 ## Download
